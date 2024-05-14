@@ -7,10 +7,10 @@ body {
 
 .card {
     background-color: hsl(0, 0%, 100%);
-    width: 83%;
+    width: 84%;
     height: 75%;
-    margin-top: 45%;
-    margin-left: 40px;
+    margin-top: 35%;
+    margin-left: 35px;
     margin-bottom: 20px;
     border-radius: 20px;
 }
@@ -35,8 +35,9 @@ h1 {
     font-family: "Outfit";
     font-size: 23px;
     font-weight: 700;
-    margin-top: 25px;
+    margin-top: 22px;
     margin-left: 28px;
+    line-height: 29px;
 }
 
 p {
@@ -44,9 +45,14 @@ p {
     font-family: "Outfit";
     font-size: 15.75px;
     font-weight: 400;
-    margin-top: 24px;
+    padding: 2 100px;
+    margin-top: 22px;
     margin-left: 28px;
     line-height: 20px;
+}
+
+.third-line {
+    margin: 80px;
 }
 
 @media screen and (min-width: 900px) and (max-width: 1440px) {
