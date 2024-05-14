@@ -40,6 +40,10 @@ h1 {
     line-height: 29px;
 }
 
+.h1-first-line {
+    margin: 5px;
+}                  
+
 p {
     color: hsl(220, 15%, 55%);
     font-family: "Outfit";
@@ -51,7 +55,11 @@ p {
     line-height: 20px;
 }
 
-.third-line {
+.p-first-line {
+    margin: 8px;
+}
+
+.p-third-line {
     margin: 80px;
 }
 
